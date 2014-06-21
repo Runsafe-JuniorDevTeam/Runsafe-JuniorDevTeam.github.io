@@ -13,5 +13,5 @@ body h1{
 
 }
 #jumbotron {
-	background: url(http://i.imgur.com/e3J8TuX.jpg);
+	background-image: url('http://i.imgur.com/e3J8TuX.jpg');
 }

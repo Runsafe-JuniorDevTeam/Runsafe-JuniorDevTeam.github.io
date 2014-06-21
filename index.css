@@ -1,4 +1,9 @@
 body{
-        background-color:silver;
+	background-color:silver
 }
-    
+#indexDiv{
+		margin:auto;
+        width:1000px; 
+        height:2690px;
+        background-color:silver;
+}  

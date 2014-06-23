@@ -7,7 +7,7 @@ body{
         width:1000px; 
         height:1000px;
         background-color:silver;
-        border: 3px solid black;
+        border: 3px solid #aa00aa;
 }  
 body h1{
 	color:#34c6e7;

@@ -13,6 +13,8 @@ body h1{
 	text-align:center; 
 	font-size:75px;
         font-family:sans-serif;
+        text-outline:"color= #000000";
+
 }
 #jumbotron h1 {
 	background-image: url('http://i.imgur.com/e3J8TuX.jpg');

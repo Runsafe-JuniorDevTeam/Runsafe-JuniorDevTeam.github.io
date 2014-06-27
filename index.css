@@ -1,5 +1,6 @@
 body{
 	background-image: url('http://imgur.com/nOzSMyM.jpg');
+	background-repeat: no-repeat;
 }
 
 #indexDiv{

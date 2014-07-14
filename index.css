@@ -21,6 +21,6 @@ body h1{
 #jumbotron h1 {
 	background-image: url('http://i.imgur.com/0YJZWh4.png');
 }
-#container li {
+#container{
 	color:#aa00aa;
 }

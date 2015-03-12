@@ -5,17 +5,17 @@ body{
 
 #indexDiv{
 	margin:auto;
-        width:1000px; 
-        height:1000px;
-        background-color:silver;
-        border: 3px solid black;
+    width:1000px; 
+    height:1000px;
+    background-color:silver;
+    border: 3px solid black;
 }  
 body h1{
 	color:#34c6e7;
 	text-align:center; 
 	font-size:75px;
-        font-family:sans-serif;
-        border:3px solid orange;
+    font-family:sans-serif;
+    border:3px solid orange;
 
 }
 #jumbotron h1{

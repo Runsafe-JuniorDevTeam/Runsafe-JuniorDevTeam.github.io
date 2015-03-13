@@ -4,6 +4,7 @@ body{
 }
 
 #indexDiv{
+	text-align:center;
 	margin:auto;
 	width:1000px; 
     height:1000px;

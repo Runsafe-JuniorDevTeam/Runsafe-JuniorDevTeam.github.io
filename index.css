@@ -17,6 +17,7 @@ body{
     height:1000px;
     background-color:silver;
     border: 3px solid black;
+	border-radius:20px;
 }  
 body h1{
 	color:#34c6e7; 

@@ -29,16 +29,16 @@ body{
 a{
     text-decoration:none;
     color: #3399FF;
-    }
+}
 a:hover{
     text-decoration:underline;
-    }
+}
 a:visited{
     color:purple;
-    }
+}
 a:link{
 	color:blue;
 }
 #topic{
     color:blue;
-    }
+}

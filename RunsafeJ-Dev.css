@@ -1,43 +1,31 @@
 body{
-    background-image: url('http://imgur.com/nOzSMyM.jpg');
+	background-image: url('http://imgur.com/nOzSMyM.jpg');
     background-repeat: no-repeat;
 }
+#header{
+	height:150px;
+	background-color:#00007A;
+	border: 5px solid black;
+	border-radius:20px;
+	padding:20px;
+}
+#footer{
+	height:250px;
+	background-color:#E62E00;
+	border: 5px solid;
+	padding:20px;
+}	
 #intro{
     text-align:center;
-    font-size:20px;
 }
-#intro strong{
-    font-size:25px;
-}
-#indexDiv{
-    padding-left:5px;
-    padding-right:5px;
-    margin:auto;
-    width:1000px; 
-    height:1000px;
-    background-color:silver;
-    border: 3px solid black;
-    border-radius:20px;
-}  
-body h1{
-    color:#34c6e7; 
-    font-size:75px;
-    font-family:sans-serif;
-    border:3px solid orange;
-}
-#jumbotron h1{
-    background-image: url('http://i.imgur.com/0YJZWh4.png');
-    text-align:center;
-    border-radius:20px;
-    }
-#container{
-    color:#aa00aa;
-    }
 #goals{
     border:none;
     margin-left:auto;
     margin-right:auto;
-    }
+}
+#topic{
+    color:blue;
+}
 a{
     text-decoration:none;
     color: #3399FF;
@@ -48,6 +36,9 @@ a:hover{
 a:visited{
     color:purple;
     }
-.topic{
+a:link{
+	color:blue;
+}
+#topic{
     color:blue;
     }

@@ -4,15 +4,16 @@ body{
 }
 #header{
 	height:150px;
-	background-color:#68685A;
-	border: 5px solid black;
+	background-color:#D3FFCE;
+	border: 10px solid #070A41;
 	border-radius:20px;
 	padding:20px;
+    text-align: center;
 }
 #footer{
 	height:250px;
-	background-color:#828270;
-	border: 5px solid;
+	background-color:#D3FFCE;
+	border: 10px solid #070A41;
 	padding:20px;
 }	
 #intro{

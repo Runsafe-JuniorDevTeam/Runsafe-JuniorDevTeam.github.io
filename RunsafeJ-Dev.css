@@ -27,6 +27,9 @@ body{
 #topic{
     color:blue;
 }
+#mainDiv{
+	text-align:center;
+}
 a{
     text-decoration:none;
     color: #3399FF;
@@ -39,7 +42,4 @@ a:visited{
 }
 a:link{
 	color:blue;
-}
-#topic{
-    color:blue;
 }

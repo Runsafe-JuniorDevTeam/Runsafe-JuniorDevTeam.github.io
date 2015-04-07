@@ -11,7 +11,7 @@ body{
     text-align: center;
 }
 #footer{
-	height:250px;
+	height:300px;
 	background-color:#D3FFCE;
 	border: 10px solid #070A41;
 	padding:20px;
@@ -29,6 +29,11 @@ body{
 }
 #mainDiv{
 	text-align:center;
+}
+ul{
+	content:"";
+	display:inline-block;
+	vertical-align:center;
 }
 a{
     text-decoration:none;

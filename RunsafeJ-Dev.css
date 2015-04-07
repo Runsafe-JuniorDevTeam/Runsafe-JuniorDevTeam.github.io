@@ -31,9 +31,8 @@ body{
 	text-align:center;
 }
 ul{
-	content:"";
 	display:inline-block;
-	vertical-align:center;
+    text-align:left
 }
 a{
     text-decoration:none;
